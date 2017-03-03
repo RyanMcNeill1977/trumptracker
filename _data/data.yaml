@@ -32,7 +32,7 @@ statuses:
 
 promises:
     -
-        title: 'No more trips Maralago'
+        title: 'No more trips to Mar-a-lago'
         status: Broken
         category: Culture
         tags:
@@ -96,7 +96,7 @@ promises:
             - 'https://web.archive.org/web/20170210173822/https://www.whitehouse.gov/the-press-office/2017/01/28/executive-order-ethics-commitments-executive-branch-appointees'
             - 'https://web.archive.org/web/20170215210736/http://www.politifact.com/truth-o-meter/promises/trumpometer/promise/1442/enact-5-year-ban-white-house-and-congressional-off/'
     -
-        title: 'A lifetime ban on White House officials lobbying on behalf of a foreign government'
+        title: 'A lifetime ban on White House officials lobbying on behalf of foreign governments'
         status: Achieved
         category: First 100 Days
         tags:
